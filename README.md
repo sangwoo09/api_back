@@ -3,3 +3,17 @@
 </p>
 
 ## 使用した言語
+
+<p align='left'>
+    <img src="https://img.shields.io/badge/JAVA%20-DD0700.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lombok%20-FF6A00.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Thymeleaf%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JPA%20-003DFF.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Poi%20-00005F.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL%20-5C1F87.svg?&style=for-the-badge&&logoColor=white"/>
+</p> 
+
+## 機能実装
+- 会員登録機能
+- 翻訳機能
